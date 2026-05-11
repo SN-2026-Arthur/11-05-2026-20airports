@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-05-11T17:23:26.537493+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBPA",
+  "airport_name": "SBPA",
+  "airport_info": {},
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}
